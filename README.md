@@ -2,4 +2,4 @@
 
 # Curso de backend Python da EBAC
 
-## Crianado uma nova branch
+## Criando uma nova branch
